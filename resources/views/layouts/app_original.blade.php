@@ -13,7 +13,7 @@
   <header>
     <div class="header-left">
             <img class="logo" src="{{ asset('img/icon.png') }}" alt="">
-            <span>Todo List</span>
+            <span>ToDo List</span>
     </div>
     <div class="header-right">
     <div class="dropdown nav">
